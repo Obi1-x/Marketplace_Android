@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">3ade</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Main Menu</string>
+    <string name="nav_header_subtitle">Username</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Validate_button">VALIDATE</string>
+    <string name="Add_to_cart_button">ADD TO CART</string>
+    <string name="title_activity_product_vew1">ProductVewActivity1</string>
+    <string name="Replace">REPLACE</string>
+    <string name="Recieve">RECIEVE</string>
+    <string name="Deliver">DELIVER</string>
+    <string name="title_activity_stock_product">StockProductActivity</string>
+    <string name="scan">SCAN</string>
+    <string name="unstockedStatusLabel">Items unstocked:</string>
+    <string name="boxededStatusLabel">Items boxed:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

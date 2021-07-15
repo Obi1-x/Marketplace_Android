@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="selectionTypes">
+        <item>IMEI</item>
+        <item>Product code</item>
+        <item>Generate</item>
+    </string-array>
+
+    <string-array name="cartTypes">
+        <item>Incoming products</item>
+        <item>Outgoing products</item>
+    </string-array>
+
+    <string-array name="numbs">
+        <item>x1</item>
+    </string-array>
+</resources>
